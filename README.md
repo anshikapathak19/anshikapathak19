@@ -57,7 +57,7 @@ I’m currently exploring **C++, Java, Python, DSA, and Web Development** while 
 
 ## 📊 GitHub Stats
 
-> 🔔 Replace **anshikapathak19** with your actual GitHub username below:
+> 
 
 <div align="center">
 
